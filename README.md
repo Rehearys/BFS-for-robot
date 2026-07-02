@@ -82,6 +82,4 @@ self.actuator = Actuators(lcd_position=(lcd_x, 10), serial_port="COM5", baudrate
 6. `Graphics` vẽ lại toàn bộ khung hình: bản đồ, đích, AMR, LCD.
 7. Khi AMR đến đích, hệ thống hiện thông báo, sau đó sinh đích mới và lặp lại từ bước 2.
 
-## Giấy phép
 
-Dự án phục vụ mục đích học tập/nghiên cứu. Vui lòng cập nhật mục License phù hợp với nhu cầu của bạn (MIT, Apache 2.0, ...).
